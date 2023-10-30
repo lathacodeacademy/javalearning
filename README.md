@@ -1,2 +1,2 @@
 # javalearning
-this is learning repository
+this is my first learning repository
